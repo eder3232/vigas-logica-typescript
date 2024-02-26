@@ -1,0 +1,22 @@
+{
+  "name": "vigas",
+  "version": "0.0.1",
+  "description": "\"Logica para vigas\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node ./src/main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "viga",
+    "análisis estructural",
+    "ingeniería civil"
+  ],
+  "author": "eder3232",
+  "license": "MIT",
+  "dependencies": {
+    "mathjs": "^12.4.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
